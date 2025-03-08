@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Nouvelle version déployé!";
+		return "Nouvelle version déployé avec succés!";
 	}
 }
